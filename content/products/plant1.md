@@ -7,7 +7,7 @@ description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/curious-squid.jpg
 featured: true
 order: 1
 category: content/category/bigplants.md
