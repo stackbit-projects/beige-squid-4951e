@@ -1,7 +1,6 @@
 ---
 layout: product
 id: '1'
-title: Nulla suscipit
 default_original_image: images/curious-squid.jpg
 featured: true
 order: 1
