@@ -11,6 +11,7 @@ featured: true
 order: 1
 category: content/category/bigplants.md
 default_thumbnail_image: images/curious-squid.jpg
+price: '2000'
 ---
 
 # Nulla suscipit
