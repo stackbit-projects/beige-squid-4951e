@@ -8,7 +8,7 @@ order: 1
 category: content/category/bigplants.md
 default_thumbnail_image: images/curious-squid.jpg
 price: '2000'
-description: 'kadman '
+description: kadman superior model 100098
 ---
 
 # Nulla suscipit
