@@ -2,7 +2,6 @@
 layout: product
 id: '1'
 title: Nulla suscipit
-description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nu'
 default_original_image: images/curious-squid.jpg
 featured: true
 order: 1
